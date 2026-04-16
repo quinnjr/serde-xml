@@ -2,7 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/serde-xml-fast.svg)](https://crates.io/crates/serde-xml-fast)
 [![Documentation](https://docs.rs/serde-xml-fast/badge.svg)](https://docs.rs/serde-xml-fast)
-[![License](https://img.shields.io/crates/l/serde-xml-fast.svg)](https://github.com/pegasusheavy/serde-xml#license)
+[![License](https://img.shields.io/crates/l/serde-xml-fast.svg)](https://github.com/quinnjr/serde-xml#license)
 
 A fast, 100% Serde-compatible XML serialization and deserialization library for Rust.
 
@@ -31,7 +31,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-serde-xml-fast = "0.1"
+serde-xml-fast = "1.0"
 serde = { version = "1.0", features = ["derive"] }
 ```
 
@@ -306,7 +306,7 @@ cargo test
 
 ## License
 
-Copyright 2025 Pegasus Heavy Industries LLC
+Copyright 2026 Joseph R Quinn
 
 Licensed under either of:
 
